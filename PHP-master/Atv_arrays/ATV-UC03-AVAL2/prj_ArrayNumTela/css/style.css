@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #3333cc;
+}
+
+#numerosTela {
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid #3333cc;
+    border-radius: 10px;
+    background-color: #e6f0ff;
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+    color: #000080;
+}
